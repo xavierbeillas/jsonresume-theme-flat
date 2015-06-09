@@ -7,11 +7,11 @@ body {
 	margin: 0 0 80px;
 }
 a {
-	color: #2ecc71;
+	color: #fc354c;
 }
 a:focus,
 a:hover {
-	color: #f1c40f;
+	color: #0abfbc;
 	text-decoration: none;
 }
 p {
@@ -79,7 +79,7 @@ h4 span:first-child {
 	font-size: 24px;
 }
 #content h3 {
-	color: #f1c40f;
+	color: #0abfbc;
 	font-size: 26px;
 	margin-top: -4px;
 }
